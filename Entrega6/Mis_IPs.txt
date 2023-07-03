@@ -1,0 +1,2 @@
+inet:10.0.2.15
+direccíonHW 08:00:27:4d:fb:b6
