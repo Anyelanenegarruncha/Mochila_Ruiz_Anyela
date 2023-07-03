@@ -1,0 +1,17 @@
+1. ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistem$
+
+
+La disponibilidad de un lenguaje de programación en un sistema operativo especí$
+
+
+2. ¿Qué tipo de máquina virtual es virtualBox?
+
+
+VirtualBox es una máquina virtual de tipo 2, lo que significa que se ejecuta co$
+
+
+3. Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta $
+La virtualización a nivel de máquina, como la proporcionada por VirtualBox, uti$
+Sin embargo, es importante destacar que si el problema o fallo se origina en el$
+
+
